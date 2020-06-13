@@ -13,6 +13,9 @@ class Footer extends Component {
                     <a className="nav-link" href="/Project">Project</a>
                 </li>
                 <li className="nav-item">
+                    <a className="nav-link" href="/Skills">Skills</a>
+                </li>
+                <li className="nav-item">
                     <a className="nav-link" href="/Contact">Contact</a>
                 </li>
             </ul>

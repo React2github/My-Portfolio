@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-
+import "./cards.css";
 
 class Cards extends Component {
     state = {  }
     render() { 
         return ( 
-         
+            <div>
+                <h4 className="title">Projects</h4>
         <div className="card-group">
             <div className="card">
                 {/* <img src="..." className="card-img-top" alt="..." /> */}
@@ -31,6 +32,7 @@ class Cards extends Component {
                     <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
             </div> 
+      </div>
       </div>
       );
     }

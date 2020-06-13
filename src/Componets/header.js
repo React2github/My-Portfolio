@@ -11,6 +11,7 @@ class Header extends Component {
                 <ul>
                     <li><a href="/Home">Home</a></li>
                     <li><a href="/Project">Project</a></li>
+                    <li><a href="/Skills">Skills</a></li>
                     <li><a href="/Contact">Contact</a></li>
                 </ul>
             </nav>

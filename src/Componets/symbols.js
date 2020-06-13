@@ -19,10 +19,10 @@ class Symbols extends Component {
             <img src={img2} width="150" height="75" alt="..." />
             </div>
         <div class="col">
-            <img src={img3} width="150" height="75" alt="..." />
+            <img src={img3} width="150" height="80" alt="..." />
             </div>
         <div class="col">
-            <img src={img4} width="150" height="75" alt="..." />
+            <img src={img4} width="150" height="70" alt="..." />
             </div>
     </div>
   </div>
