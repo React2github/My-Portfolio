@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import "bootstrap/dist/css/bootstrap.css";
-import "./bio.css";
-import img from "./profile.jpg";
+import "./styles/bio.css";
+import img from "./images/profile.jpg";
 
 class Bio extends Component {
     state = {  }

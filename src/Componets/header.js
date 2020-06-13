@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import "bootstrap/dist/css/bootstrap.css";
-import "./header.css"
+import "./styles/header.css"
 
 class Header extends Component {
     // state = {  }

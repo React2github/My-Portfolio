@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import "./symbols.css";
-import img from "./express.png";
-import img2 from "./node-js.jpg";
-import img3 from "./react-logo.jpg";
-import img4 from "./redux-logo.png";
+import "./styles/symbols.css";
+import img from "./images/express.png";
+import img2 from "./images/node-js.jpg";
+import img3 from "./images/react-logo.jpg";
+import img4 from "./images/redux-logo.png";
 
 class Symbols extends Component {
     state = {  }
