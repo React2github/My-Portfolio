@@ -7,12 +7,12 @@ class Bio extends Component {
     state = {  }
     render() { 
         return ( 
- <div className="jumbotron">
+ <div className="jumbotron" id="Home">
      <img src={img} alt="profile pic"></img>
     <h1 className="display-4">Abdella Shukur</h1>
     <p className="lead">A builder and student of technology</p>
     <p>Atlanta, GA | Full-stack developer</p>
-    <a className="btn btn-primary btn-lg" href="/Projects" role="button">Learn more</a>
+    <a className="btn btn-primary btn-lg" href="/Projects" role="button">Contact</a>
 </div> 
  );
     }
