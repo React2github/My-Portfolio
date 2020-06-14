@@ -20,6 +20,12 @@ class Footer extends Component {
                     <a className="nav-link" href="/Contact">Contact</a>
                 </li>
             </ul>
+            <p></p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
         </nav>
         </div>
 

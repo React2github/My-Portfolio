@@ -14,24 +14,24 @@ class recs extends Component {
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/WB.png" width="200px" height="200px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="150px" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        <h5>Sally Sue</h5>
+        <p>Abdella is a great developer and an asset!</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/WB.png" width="200px" height="200px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="150px" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h5>Mike Johnson</h5>
+        <p>He is passionate and diligent</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/WB.png" width="200px" height="200px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="150px" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        <h5>Curtis Jackson</h5>
+        <p>He goes above and beyond</p>
       </div>
     </div>
   </div>
