@@ -4,6 +4,7 @@ class Footer extends Component {
     state = {  }
     render() { 
         return ( 
+            <div>
         <nav className=" navbar-light bg-light">
             <ul className="nav justify-content-center">
                 <li className="nav-item">
@@ -20,6 +21,7 @@ class Footer extends Component {
                 </li>
             </ul>
         </nav>
+        </div>
 
          );
     }

@@ -3,8 +3,8 @@ import Header from "./Componets/header";
 import Footer from "./Componets/footer";
 import Bio from "./Componets/bio";
 import Symbols from "./Componets/symbols";
-import Contact from "./Componets/contact";
 import Projects from './Componets/projects';
+import Recs from "./Componets/Recs.jsx"
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
 <Bio />
 <Projects />
 <Symbols />
-<Contact />
+<Recs />
 <Footer />
     </div>
   );
