@@ -1,3 +1,2 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+You can view this live at www.abdellashukur.me 
 
