@@ -32,7 +32,7 @@ class Symbols extends Component {
             <img src={"/img/git.png"} width="150" height="80" alt="..." />
             </div>
         <div class="card pad">
-            <img src={"/img/jQuery.jpg"} width="150" height="80" alt="..." />
+            <img src={"/img/JQuery.jpg"} width="150" height="80" alt="..." />
             </div>
     </div>
     </div>
