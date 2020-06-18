@@ -11,7 +11,7 @@ class Bio extends Component {
     <h1 className="display-4">Abdella Shukur</h1>
     <p className="lead">A builder and student of technology</p>
     <p>Atlanta, GA | Full-stack developer</p>
-    <a className="btn btn-primary btn-lg" href="/Projects" role="button">Contact</a>
+    <a className="btn btn-primary btn-lg" href="#Contact" role="button">Contact</a>
 </div> 
  );
     }

@@ -6,7 +6,7 @@ import "./styles/cards.css";
 function Projects() {
   return (
     <div>
-        <h4 className="title">Projects</h4>
+        <h4 className="title" id="Projects">Projects</h4>
         <div className="card-group">
             <div className="card">
                 <Thumbnail
