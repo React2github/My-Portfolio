@@ -2,6 +2,7 @@ import React from 'react';
 import Thumbnail from './thumbnail.js'; // Import the Thumbnail component
 import "./styles/cards.css";
 
+
  
 function Projects() {
   return (
