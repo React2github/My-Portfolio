@@ -21,13 +21,13 @@ class Footer extends Component {
                     <a className="nav-link" href="/Contact">Contact</a>
                 </li>
             </ul>
-            <div id="links">
+            {/* <div id="links">
                 <ul>
                     <li>abdella.shukur2@gmail.com</li>
                     <li>github.com/React2Github</li>
                     <li>https://www.linkedin.com/in/abdella-abdushukur-2b7b42144/</li>
                 </ul>
-            </div>
+            </div> */}
             <ul>
                 <li></li>
                 <li></li>
