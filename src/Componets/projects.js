@@ -3,6 +3,20 @@ import Thumbnail from './thumbnail.js'; // Import the Thumbnail component
 import "./styles/cards.css";
 
 
+function CodeGit() {
+  window.open("https://github.com/React2github/BudgetTracker");
+}
+function CodeGit2() {
+  window.open("https://github.com/React2github/arabicbabynames");
+}
+function CodeGit3() {
+  window.open("https://github.com/React2github/PoliceData");
+}
+
+function LiveCode() {
+  window.open("https://budget-tracker-node.herokuapp.com/login");
+}
+
  
 function Projects() {
   return (
@@ -17,6 +31,10 @@ function Projects() {
                 description="Individuals and families can submit their monthly expenses or bills and 
                 track their finances in a visual real-time chart. The data is stored on our servers." 
                 />
+                <div className="buttons">
+                <button onClick={CodeGit.bind(this)}>Code</button>
+                <button onClick={LiveCode.bind(this)}>Live Site</button>
+                </div>
             </div>
             <div className="card">
                 <Thumbnail
@@ -26,6 +44,9 @@ function Projects() {
                 description="Families can get guidance in finding the perfect name for their baby. 
                 They will get an english definition, a picture of a famous celebrity and can pick gender."
                 />
+                <div className="buttons">
+                <button onClick={CodeGit2.bind(this)}>Code</button>
+                </div>
             </div>
             <div className="card">
                 <Thumbnail
@@ -35,6 +56,9 @@ function Projects() {
                 description="Information about police killings from The WallStreet Journal 
                 was imported into a D3 and Victory Chart application to analyze trends based on demographics."
                 />
+                <div className="buttons">
+                <button onClick={CodeGit3.bind(this)}>Code</button>
+                </div>
             </div>
       </div>
     </div>
