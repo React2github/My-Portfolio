@@ -4,7 +4,6 @@ display: grid;
 color: white;
 justify-content: center;
 background-image: url("/img/land2.jpg");
-min-width: 360px;
 }
 
 #info {
