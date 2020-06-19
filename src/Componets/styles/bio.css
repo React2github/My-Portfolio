@@ -16,3 +16,7 @@ background-color: black;
     display: flex;
     justify-content: center;
 }
+
+.modal-content {
+    color: black;
+}
