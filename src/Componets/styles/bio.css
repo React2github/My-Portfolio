@@ -4,6 +4,16 @@ display: grid;
 color: white;
 justify-content: center;
 background-image: url("/img/land2.jpg");
-background-size: contain;
-background-repeat: round;
+min-width: 360px;
+}
+
+#info {
+display: grid;
+justify-content: center;
+background-color: black;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
 }
