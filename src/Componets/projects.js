@@ -7,7 +7,7 @@ function CodeGit() {
   window.open("https://github.com/React2github/BudgetTracker");
 }
 function CodeGit2() {
-  window.open("https://github.com/React2github/arabicbabynames");
+  window.open("https://github.com/React2github/COVID19-Testing");
 }
 function CodeGit3() {
   window.open("https://github.com/React2github/PoliceData");
@@ -39,10 +39,10 @@ function Projects() {
             <div className="card">
                 <Thumbnail
                 link="/Facebook"
-                image="/img/ABN.png"
-                title="ArabicBabyNames"
-                description="Families can get guidance in finding the perfect name for their baby. 
-                They will get an english definition, a picture of a famous celebrity and can pick gender."
+                image="/img/covid19.jpg"
+                title="Covid-19 Tracker"
+                description="Utilizes Google Maps API to mark hospitals which offer rapid Covid-19 testing. 
+                This helps people get tested without much hassle."
                 />
                 <div className="buttons">
                 <button onClick={CodeGit2.bind(this)}>Code</button>
