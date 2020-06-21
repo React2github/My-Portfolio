@@ -41,8 +41,7 @@ function Projects() {
                 link="/Facebook"
                 image="/img/covid19.jpg"
                 title="Covid-19 Tracker"
-                description="Utilizes Google Maps API to mark hospitals which offer rapid Covid-19 testing. 
-                This helps people get tested without much hassle."
+                description="Utilizes Google Maps API to mark hospitals which offer rapid Covid-19 testing."
                 />
                 <div className="buttons">
                 <button onClick={CodeGit2.bind(this)}>Code</button>
