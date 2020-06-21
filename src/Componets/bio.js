@@ -18,7 +18,7 @@ class Bio extends Component {
     <div id="info">
     <img src={"/img/profile.jpg"} alt="profile pic"></img>
     <h1 className="center">Abdella Shukur</h1>
-    <p className="lead center">A builder and student of technology</p>
+    <p className="lead center">Building Solutions to Today's Problems</p>
     <p className="center">Atlanta, GA | Full-stack developer</p>
     <button className="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModal">Contact</button>
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
