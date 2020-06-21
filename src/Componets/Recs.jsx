@@ -14,7 +14,7 @@ class recs extends Component {
   </ol>
   <div class="carousel-inner" id="recs">
     <div class="carousel-item active">
-      <img src="img/WB.png" width="200px" height="320px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="350px" class="d-block w-100" alt="..." />
       <div class="carousel-caption">
         <h5>Cassie Champagne</h5>
         <p>I worked with Abdella on a full-stack Node application.  
@@ -24,7 +24,7 @@ class recs extends Component {
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/WB.png" width="200px" height="320px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="350px" class="d-block w-100" alt="..." />
       <div class="carousel-caption">
         <h5>Kyle Kephart</h5>
         <p>Abdella preformed exceptionally well, he completed every project I tasked him with well ahead of schedule and with absolute professional quality. 
@@ -32,7 +32,7 @@ class recs extends Component {
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/WB.png" width="200px" height="320px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="350px" class="d-block w-100" alt="..." />
       <div class="carousel-caption">
         <h5>Sam Chang</h5>
         <p>Abdella is a skilled professional I'd highly recommend. 
