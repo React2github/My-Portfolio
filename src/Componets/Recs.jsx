@@ -17,10 +17,9 @@ class recs extends Component {
       <img src="img/WB.png" width="200px" height="350px" class="d-block w-100" alt="..." />
       <div class="carousel-caption">
         <h5>Cassie Champagne</h5>
-        <p>I worked with Abdella on a full-stack Node application.  
-          Abdella took on the role of team lead and effectively managed a remote group of developers.  
-          He ensured our team worked together in a way that allowed each member to show their strengths and he was quick to jump in and help whenever it was needed.  
-          He has a strong understanding of web development and would be an excellent addition to any team.</p>
+        <p> Abdella was our team leader on a full-stack Node application. He effectively managed a remote group of developers.  
+          He ensured our team worked together well and allowed each member to show their strengths. He was also quick to help whenever necessary.  
+          He has a strong understanding of web development and would be a excellent asset to any team.</p>
       </div>
     </div>
     <div class="carousel-item">
