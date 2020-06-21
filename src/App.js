@@ -4,6 +4,7 @@ import Footer from "./Componets/footer";
 import Bio from "./Componets/bio";
 import Symbols from "./Componets/symbols";
 import Projects from './Componets/projects';
+import Recs from "./Componets/Recs";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
 <Bio />
 <Projects />
 <Symbols />
+<Recs />
 <Footer />
     </div>
   );

@@ -14,24 +14,30 @@ class recs extends Component {
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/WB.png" width="200px" height="150px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="200px" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
-        <h5>Sally Sue</h5>
-        <p>Abdella is a great developer and an asset!</p>
+        <h5>Cassie Champagne</h5>
+        <p>I worked with Abdella on a full-stack Node application.  
+          Abdella took on the role of team lead and effectively managed a remote group of developers.  
+          He ensured our team worked together in a way that allowed each member to show their strengths and he was quick to jump in and help whenever it was needed.  
+          He has a strong understanding of web development and would be an excellent addition to any team.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/WB.png" width="200px" height="150px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="200px" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
-        <h5>Mike Johnson</h5>
-        <p>He is passionate and diligent</p>
+        <h5>Kyle Kephart</h5>
+        <p>Abdella preformed exceptionally well, he completed every project I tasked him with well ahead of schedule and with absolute professional quality. 
+          10/10 I will be recommending him in the future.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/WB.png" width="200px" height="150px" class="d-block w-100" alt="..." />
+      <img src="img/WB.png" width="200px" height="200px" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
-        <h5>Curtis Jackson</h5>
-        <p>He goes above and beyond</p>
+        <h5>Sam Chang</h5>
+        <p>Abdella is a skilled professional I'd highly recommend. 
+          The project I hired him for was completed swiftly, and Abdella was great in making himself available and ready to communicate about the project. 
+          Will hire again.</p>
       </div>
     </div>
   </div>
