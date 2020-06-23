@@ -1,15 +1,3 @@
 #test {
     background-color: black;
 }
-@media only screen and (max-width: 600px) {
-    .size {
-        height: 50vh;
-        width: 99vw;
-        } 
-
-  }
-
-.size {
-height: 30vh;
-width: 99vw;
-} 
