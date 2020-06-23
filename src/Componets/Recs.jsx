@@ -13,10 +13,9 @@ class recs extends Component {
     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
   </ol>
-  <div id="test"></div>
   <div class="carousel-inner" id="recs">
     <div class="carousel-item active">
-      <img src="img/bg-graphic.jpg"  height="350px" class="d-block w-100" alt="..." />
+      <img src="img/wb.png"   class="d-block w-100 size" alt="..." />
       <div class="carousel-caption">
       <div id="test">
         <h5>Cassie Champagne</h5>
@@ -27,7 +26,7 @@ class recs extends Component {
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/bg-graphic.jpg"  height="350px" class="d-block w-100" alt="..." />
+      <img src="img/wb.png"   class="d-block w-100 size" alt="..." />
       <div class="carousel-caption">
         <div id="test">
         <h5>Kyle Kephart</h5>
@@ -37,7 +36,7 @@ class recs extends Component {
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/bg-graphic.jpg"  height="350px" class="d-block w-100" alt="..." />
+      <img src="img/wb.png"   class="d-block w-100 size" alt="..." />
       <div class="carousel-caption">
       <div id="test">
         <h5>Sam Chang</h5>
